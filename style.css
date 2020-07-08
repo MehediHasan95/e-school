@@ -1,0 +1,78 @@
+.logo{
+    width: 120px;
+}
+.sign{
+    border: 1px solid none;
+    border-radius: 20px;
+    background-color:#2ECC71;
+    color: white;
+    padding: 8px 25px;
+}
+.link{
+    color: black;
+    font-weight: 400;
+}
+.top-banner{
+    background-color: #EAFAF1;
+}
+#highlight{
+    color: #2ECC71;
+}
+.btn-btn-button{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 8px 20px;
+    color: white;
+    background-color:#2ECC71;
+}
+.font-color{
+    color: red;
+}
+.image{
+    width: 80px;
+}
+.catagories{
+    padding-top: 60px;
+}   
+.course, .testimonial{
+    padding-top: 60px;
+    padding-bottom: 40px; 
+}
+.card{
+    padding: 15px 15px;
+}
+.logo-man{
+    width: 100px;
+}
+.button-section{
+    color: white;
+    background-color: #1C2833;
+    padding-top: 40px;
+}
+footer{
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.calender-logo, .people-logo{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+.text1{
+    margin-top: 20px;
+}
+.book1{
+    width: 100px;
+}
+.books1, .books3, .books4{
+    border-radius: 10px;
+    margin: 0px 20px;
+    padding-top: 20px;
+    background-color: #EAFAF1;
+}
+.books2{
+    border-radius: 10px;
+    margin: 0px 20px;
+    padding-top: 20px;
+    background-color: white;
+}
